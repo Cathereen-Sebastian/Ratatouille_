@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -311,9 +311,5 @@
   
   </center>
 </body>
-</html>![sandwich](https://github.com![coffee](ht![shake](https://github.com/Cathereen-Sebastian/Ratatouille_/assets/151867146/0daeaf78-2551-4edf-8190-70ea38c3a403)
-tps://github.com/Cathereen-Sebastian/Ratatouille_/assets/151867146/31241448-28c5-4380-953e-404fd18e0ab6)
-/Cathereen-Sebastian/Ratatouille_/assets/151867146/6a472c8f-3e8c-48a4-b130-ac4544156ac5)
-![rice bowl](https://github.com/Cathereen-Sebastian/Ratatouille_/assets/151867146/4af2f53c-5371-4600-a472-06ca0788f98e)
-![ratatouille iamge4](https://github.com/Cathereen-Sebastian/Ratatouille_/assets/151867146/9b3b8e94-abab-4b52-8ca1-ff968a914166)
+</html>
 
